@@ -1,6 +1,6 @@
 Name:		texlive-listingsutf8
 Version:	53097
-Release:	1
+Release:	2
 Summary:	Allow UTF-8 in listings input
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/listingsutf8
