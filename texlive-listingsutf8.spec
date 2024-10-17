@@ -3,7 +3,7 @@ Version:	53097
 Release:	2
 Summary:	Allow UTF-8 in listings input
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/listingsutf8
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/listingsutf8
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/listingsutf8.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/listingsutf8.doc.r%{version}.tar.xz
